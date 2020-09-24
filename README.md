@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on STEM programs.
 - 💬 Ask me about JS, Java, Computer science concepts.
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: I'm loonk
 <!--
 **malibb/malibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
