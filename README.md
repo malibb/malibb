@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on devf
-- 🌱 I’m currently learning cibersecurity, my carrear and sofkills.
+- 🌱 I’m currently learning cibersecurity, my carrear and softskills.
 - 👯 I’m looking to collaborate on STEM programs.
 - 💬 Ask me about JS, Java, Computer science concepts.
 - 😄 Pronouns: she / her
