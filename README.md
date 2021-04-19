@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on devf
 - 🌱 I’m currently learning cibersecurity, my carrear and softskills.
 - 👯 I’m looking to collaborate on STEM programs.
-- 💬 Ask me about JS, Java, Elixir,Computer science concepts.
+- 💬 Ask me about JS, Java, Elixir and computer science concepts.
 - 😄 Pronouns: she / her
 <!--
 **malibb/malibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
