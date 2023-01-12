@@ -1,6 +1,6 @@
 
 
-![GitHub Header](Images/header.png)
+![Header](Images/Malinali.png)
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=malibb&color=blue&style=for-the-badge" alt="Profile views"/>
