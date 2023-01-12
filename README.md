@@ -1,3 +1,13 @@
+
+
+![GitHub Header](Images/header.png)
+<br>
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=malibb&color=blue&style=for-the-badge" alt="Profile views"/>
+	<img src="https://img.shields.io/github/followers/malibb?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
+	<img src="https://img.shields.io/twitter/follow/_mesurashii?style=for-the-badge&logo=twitter&color=blue" alt="Twitter followers"/>   
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on devf
