@@ -15,6 +15,8 @@
 <li><b>😄 Pronouns: </b>  She/Her </li>
 <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
 <li><b>📣 Languages: </b>  English & Spanish </li>
+
+https://malinali.dev/
 	
 </ul>
 
